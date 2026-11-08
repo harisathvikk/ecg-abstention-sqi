@@ -1,0 +1,556 @@
+09:22:02 device: cuda | workers: 4
+09:22:02 loading MIT-BIH + NSTDB + INCART ...
+Generating record list for: 100
+Generating record list for: 101
+Generating record list for: 102
+Generating record list for: 103
+Generating record list for: 104
+Generating record list for: 105
+Generating record list for: 106
+Generating record list for: 107
+Generating record list for: 108
+Generating record list for: 109
+Generating record list for: 111
+Generating record list for: 112
+Generating record list for: 113
+Generating record list for: 114
+Generating record list for: 115
+Generating record list for: 116
+Generating record list for: 117
+Generating record list for: 118
+Generating record list for: 119
+Generating record list for: 121
+Generating record list for: 122
+Generating record list for: 123
+Generating record list for: 124
+Generating record list for: 200
+Generating record list for: 201
+Generating record list for: 202
+Generating record list for: 203
+Generating record list for: 205
+Generating record list for: 207
+Generating record list for: 208
+Generating record list for: 209
+Generating record list for: 210
+Generating record list for: 212
+Generating record list for: 213
+Generating record list for: 214
+Generating record list for: 215
+Generating record list for: 217
+Generating record list for: 219
+Generating record list for: 220
+Generating record list for: 221
+Generating record list for: 222
+Generating record list for: 223
+Generating record list for: 228
+Generating record list for: 230
+Generating record list for: 231
+Generating record list for: 232
+Generating record list for: 233
+Generating record list for: 234
+Generating list of all files for: 100
+Generating list of all files for: 101
+Generating list of all files for: 102
+Generating list of all files for: 103
+Generating list of all files for: 104
+Generating list of all files for: 105
+Generating list of all files for: 106
+Generating list of all files for: 107
+Generating list of all files for: 108
+Generating list of all files for: 109
+Generating list of all files for: 111
+Generating list of all files for: 112
+Generating list of all files for: 113
+Generating list of all files for: 114
+Generating list of all files for: 115
+Generating list of all files for: 116
+Generating list of all files for: 117
+Generating list of all files for: 118
+Generating list of all files for: 119
+Generating list of all files for: 121
+Generating list of all files for: 122
+Generating list of all files for: 123
+Generating list of all files for: 124
+Generating list of all files for: 200
+Generating list of all files for: 201
+Generating list of all files for: 202
+Generating list of all files for: 203
+Generating list of all files for: 205
+Generating list of all files for: 207
+Generating list of all files for: 208
+Generating list of all files for: 209
+Generating list of all files for: 210
+Generating list of all files for: 212
+Generating list of all files for: 213
+Generating list of all files for: 214
+Generating list of all files for: 215
+Generating list of all files for: 217
+Generating list of all files for: 219
+Generating list of all files for: 220
+Generating list of all files for: 221
+Generating list of all files for: 222
+Generating list of all files for: 223
+Generating list of all files for: 228
+Generating list of all files for: 230
+Generating list of all files for: 231
+Generating list of all files for: 232
+Generating list of all files for: 233
+Generating list of all files for: 234
+Created local base download directory: /kaggle/working/data/mitdb
+Downloading files...
+Finished downloading files
+Generating record list for: 118e00
+Generating record list for: 118e06
+Generating record list for: 118e12
+Generating record list for: 118e18
+Generating record list for: 118e24
+Generating record list for: 118e_6
+Generating record list for: 119e00
+Generating record list for: 119e06
+Generating record list for: 119e12
+Generating record list for: 119e18
+Generating record list for: 119e24
+Generating record list for: 119e_6
+Generating record list for: bw
+Generating record list for: em
+Generating record list for: ma
+Generating list of all files for: 118e00
+Generating list of all files for: 118e06
+Generating list of all files for: 118e12
+Generating list of all files for: 118e18
+Generating list of all files for: 118e24
+Generating list of all files for: 118e_6
+Generating list of all files for: 119e00
+Generating list of all files for: 119e06
+Generating list of all files for: 119e12
+Generating list of all files for: 119e18
+Generating list of all files for: 119e24
+Generating list of all files for: 119e_6
+Generating list of all files for: bw
+Generating list of all files for: em
+Generating list of all files for: ma
+Created local base download directory: /kaggle/working/data/nstdb
+Downloading files...
+Finished downloading files
+Generating record list for: I01
+Generating record list for: I02
+Generating record list for: I03
+Generating record list for: I04
+Generating record list for: I05
+Generating record list for: I06
+Generating record list for: I07
+Generating record list for: I08
+Generating record list for: I09
+Generating record list for: I10
+Generating record list for: I11
+Generating record list for: I12
+Generating record list for: I13
+Generating record list for: I14
+Generating record list for: I15
+Generating record list for: I16
+Generating record list for: I17
+Generating record list for: I18
+Generating record list for: I19
+Generating record list for: I20
+Generating record list for: I21
+Generating record list for: I22
+Generating record list for: I23
+Generating record list for: I24
+Generating record list for: I25
+Generating record list for: I26
+Generating record list for: I27
+Generating record list for: I28
+Generating record list for: I29
+Generating record list for: I30
+Generating record list for: I31
+Generating record list for: I32
+Generating record list for: I33
+Generating record list for: I34
+Generating record list for: I35
+Generating record list for: I36
+Generating record list for: I37
+Generating record list for: I38
+Generating record list for: I39
+Generating record list for: I40
+Generating record list for: I41
+Generating record list for: I42
+Generating record list for: I43
+Generating record list for: I44
+Generating record list for: I45
+Generating record list for: I46
+Generating record list for: I47
+Generating record list for: I48
+Generating record list for: I49
+Generating record list for: I50
+Generating record list for: I51
+Generating record list for: I52
+Generating record list for: I53
+Generating record list for: I54
+Generating record list for: I55
+Generating record list for: I56
+Generating record list for: I57
+Generating record list for: I58
+Generating record list for: I59
+Generating record list for: I60
+Generating record list for: I61
+Generating record list for: I62
+Generating record list for: I63
+Generating record list for: I64
+Generating record list for: I65
+Generating record list for: I66
+Generating record list for: I67
+Generating record list for: I68
+Generating record list for: I69
+Generating record list for: I70
+Generating record list for: I71
+Generating record list for: I72
+Generating record list for: I73
+Generating record list for: I74
+Generating record list for: I75
+Generating list of all files for: I01
+Generating list of all files for: I02
+Generating list of all files for: I03
+Generating list of all files for: I04
+Generating list of all files for: I05
+Generating list of all files for: I06
+Generating list of all files for: I07
+Generating list of all files for: I08
+Generating list of all files for: I09
+Generating list of all files for: I10
+Generating list of all files for: I11
+Generating list of all files for: I12
+Generating list of all files for: I13
+Generating list of all files for: I14
+Generating list of all files for: I15
+Generating list of all files for: I16
+Generating list of all files for: I17
+Generating list of all files for: I18
+Generating list of all files for: I19
+Generating list of all files for: I20
+Generating list of all files for: I21
+Generating list of all files for: I22
+Generating list of all files for: I23
+Generating list of all files for: I24
+Generating list of all files for: I25
+Generating list of all files for: I26
+Generating list of all files for: I27
+Generating list of all files for: I28
+Generating list of all files for: I29
+Generating list of all files for: I30
+Generating list of all files for: I31
+Generating list of all files for: I32
+Generating list of all files for: I33
+Generating list of all files for: I34
+Generating list of all files for: I35
+Generating list of all files for: I36
+Generating list of all files for: I37
+Generating list of all files for: I38
+Generating list of all files for: I39
+Generating list of all files for: I40
+Generating list of all files for: I41
+Generating list of all files for: I42
+Generating list of all files for: I43
+Generating list of all files for: I44
+Generating list of all files for: I45
+Generating list of all files for: I46
+Generating list of all files for: I47
+Generating list of all files for: I48
+Generating list of all files for: I49
+Generating list of all files for: I50
+Generating list of all files for: I51
+Generating list of all files for: I52
+Generating list of all files for: I53
+Generating list of all files for: I54
+Generating list of all files for: I55
+Generating list of all files for: I56
+Generating list of all files for: I57
+Generating list of all files for: I58
+Generating list of all files for: I59
+Generating list of all files for: I60
+Generating list of all files for: I61
+Generating list of all files for: I62
+Generating list of all files for: I63
+Generating list of all files for: I64
+Generating list of all files for: I65
+Generating list of all files for: I66
+Generating list of all files for: I67
+Generating list of all files for: I68
+Generating list of all files for: I69
+Generating list of all files for: I70
+Generating list of all files for: I71
+Generating list of all files for: I72
+Generating list of all files for: I73
+Generating list of all files for: I74
+Generating list of all files for: I75
+Created local base download directory: /kaggle/working/data/incartdb
+Downloading files...
+Detected partially downloaded file: /kaggle/working/data/incartdb/I57.dat Appending file...
+Done appending.
+Finished downloading files
+09:24:53 external records: 75, patients (parsed from headers): 32
+09:24:53   example header: <age>: 65 <sex>: F <diagnoses> Coronary artery disease, arterial hypertension | patient 1 | PVCs, noise | class counts (annot.): [153709, 1960, 20013, 219]
+09:24:53 building conditions (external test: all records; calibration: MIT-BIH calibration patients) ...
+09:32:23   clean  ext beats=172714 spurious=1395 det_sens=0.982
+09:32:23   bw24   ext beats=172774 spurious=1457 det_sens=0.982
+09:32:23   bw18   ext beats=172787 spurious=1475 det_sens=0.982
+09:32:23   bw12   ext beats=172963 spurious=1993 det_sens=0.983
+09:32:23   bw6    ext beats=173076 spurious=3987 det_sens=0.984
+09:32:23   bw0    ext beats=171827 spurious=10290 det_sens=0.977
+09:32:23   bw-6   ext beats=165111 spurious=23948 det_sens=0.939
+09:32:23   em24   ext beats=172962 spurious=3479 det_sens=0.983
+09:32:23   em18   ext beats=172220 spurious=11273 det_sens=0.979
+09:32:23   em12   ext beats=168600 spurious=29888 det_sens=0.958
+09:32:23   em6    ext beats=158196 spurious=59425 det_sens=0.899
+09:32:23   em0    ext beats=139737 spurious=93927 det_sens=0.794
+09:32:23   em-6   ext beats=118578 spurious=119421 det_sens=0.674
+09:32:23   ma24   ext beats=172807 spurious=7213 det_sens=0.982
+09:32:23   ma18   ext beats=170166 spurious=19634 det_sens=0.967
+09:32:23   ma12   ext beats=161243 spurious=40200 det_sens=0.917
+09:32:23   ma6    ext beats=140224 spurious=63619 det_sens=0.797
+09:32:23   ma0    ext beats=108621 spurious=81194 det_sens=0.618
+09:32:23   ma-6   ext beats=77847 spurious=86139 det_sens=0.443
+
+=== external test set, clean, beats per class ===
+     N    S     V   F
+150904 1948 19650 212
+09:32:42 train beats: {'clean': 39496, 'aug': 157633}
+09:34:43 cnn|aug seed0 done (121s)
+09:36:26 cnn|aug seed1 done (103s)
+09:38:09 cnn|aug seed2 done (103s)
+09:39:53 cnn|aug seed3 done (104s)
+09:41:36 cnn|aug seed4 done (102s)
+09:41:40 cnn|aug: patient-level bootstrap (500 resamples, 32 patients) ...
+09:51:04 saved cnn|aug
+model regime              score  diff_aurc_vs_msp   ci_lo   ci_hi  frac_boot_worse
+  cnn    aug            sqi_raw            0.1123  0.0890  0.1307              1.0
+  cnn    aug          combo_raw            0.0156  0.0124  0.0193              1.0
+  cnn    aug     combo_log_filt            0.0078  0.0057  0.0107              1.0
+  cnn    aug        veto_k_filt            0.0242  0.0180  0.0309              1.0
+  cnn    aug      veto_lit_filt            0.0183  0.0102  0.0266              1.0
+  cnn    aug           conf_log            0.0040  0.0025  0.0056              1.0
+  cnn    aug combo_log_filt_ins           -0.0012 -0.0022 -0.0004              0.0
+09:54:08 rf|aug seed0 done (184s)
+09:57:12 rf|aug seed1 done (184s)
+10:00:18 rf|aug seed2 done (186s)
+10:03:26 rf|aug seed3 done (188s)
+10:06:38 rf|aug seed4 done (191s)
+10:06:42 rf|aug: patient-level bootstrap (500 resamples, 32 patients) ...
+10:15:44 saved rf|aug
+model regime              score  diff_aurc_vs_msp   ci_lo  ci_hi  frac_boot_worse
+   rf    aug            sqi_raw            0.0394  0.0290 0.0520            1.000
+   rf    aug          combo_raw            0.0124  0.0103 0.0150            1.000
+   rf    aug     combo_log_filt            0.0060  0.0038 0.0085            1.000
+   rf    aug        veto_k_filt            0.0175  0.0140 0.0220            1.000
+   rf    aug      veto_lit_filt            0.0115  0.0065 0.0167            1.000
+   rf    aug           conf_log            0.0005 -0.0002 0.0009            0.926
+   rf    aug combo_log_filt_ins           -0.0001 -0.0009 0.0005            0.418
+10:17:25 cnn_norr|aug seed0 done (101s)
+10:19:10 cnn_norr|aug seed1 done (105s)
+10:20:52 cnn_norr|aug seed2 done (102s)
+10:22:35 cnn_norr|aug seed3 done (103s)
+10:24:19 cnn_norr|aug seed4 done (104s)
+10:24:23 cnn_norr|aug: patient-level bootstrap (500 resamples, 32 patients) ...
+10:33:50 saved cnn_norr|aug
+   model regime              score  diff_aurc_vs_msp   ci_lo   ci_hi  frac_boot_worse
+cnn_norr    aug            sqi_raw            0.1213  0.1003  0.1408            1.000
+cnn_norr    aug          combo_raw            0.0303  0.0235  0.0372            1.000
+cnn_norr    aug     combo_log_filt            0.0209  0.0122  0.0287            1.000
+cnn_norr    aug        veto_k_filt            0.0265  0.0183  0.0362            1.000
+cnn_norr    aug      veto_lit_filt            0.0128  0.0045  0.0211            0.998
+cnn_norr    aug           conf_log            0.0106  0.0062  0.0150            1.000
+cnn_norr    aug combo_log_filt_ins           -0.0090 -0.0209 -0.0016            0.000
+10:35:16 cnn|clean seed0 done (86s)
+10:36:40 cnn|clean seed1 done (84s)
+10:38:03 cnn|clean seed2 done (83s)
+10:39:24 cnn|clean seed3 done (81s)
+10:40:43 cnn|clean seed4 done (79s)
+10:40:47 cnn|clean: patient-level bootstrap (500 resamples, 32 patients) ...
+10:49:59 saved cnn|clean
+model regime              score  diff_aurc_vs_msp   ci_lo   ci_hi  frac_boot_worse
+  cnn  clean            sqi_raw            0.0687  0.0602  0.0776              1.0
+  cnn  clean          combo_raw            0.0095  0.0068  0.0126              1.0
+  cnn  clean     combo_log_filt            0.0040  0.0027  0.0057              1.0
+  cnn  clean        veto_k_filt            0.0130  0.0094  0.0176              1.0
+  cnn  clean      veto_lit_filt            0.0090  0.0049  0.0134              1.0
+  cnn  clean           conf_log            0.0022  0.0019  0.0025              1.0
+  cnn  clean combo_log_filt_ins           -0.0069 -0.0086 -0.0048              0.0
+10:51:34 rf|clean seed0 done (95s)
+10:53:09 rf|clean seed1 done (95s)
+10:54:45 rf|clean seed2 done (97s)
+10:56:19 rf|clean seed3 done (93s)
+10:57:57 rf|clean seed4 done (98s)
+10:58:01 rf|clean: patient-level bootstrap (500 resamples, 32 patients) ...
+11:07:03 saved rf|clean
+model regime              score  diff_aurc_vs_msp   ci_lo   ci_hi  frac_boot_worse
+   rf  clean            sqi_raw            0.0570  0.0456  0.0689              1.0
+   rf  clean          combo_raw            0.0288  0.0258  0.0322              1.0
+   rf  clean     combo_log_filt            0.0285  0.0251  0.0321              1.0
+   rf  clean        veto_k_filt            0.0104  0.0079  0.0133              1.0
+   rf  clean      veto_lit_filt            0.0081  0.0051  0.0115              1.0
+   rf  clean           conf_log            0.0193  0.0165  0.0220              1.0
+   rf  clean combo_log_filt_ins           -0.0084 -0.0110 -0.0061              0.0
+11:08:27 cnn_norr|clean seed0 done (83s)
+11:09:48 cnn_norr|clean seed1 done (82s)
+11:11:10 cnn_norr|clean seed2 done (81s)
+11:12:29 cnn_norr|clean seed3 done (80s)
+11:13:48 cnn_norr|clean seed4 done (78s)
+11:13:52 cnn_norr|clean: patient-level bootstrap (500 resamples, 32 patients) ...
+11:23:00 saved cnn_norr|clean
+   model regime              score  diff_aurc_vs_msp   ci_lo   ci_hi  frac_boot_worse
+cnn_norr  clean            sqi_raw            0.0767  0.0642  0.0872            1.000
+cnn_norr  clean          combo_raw            0.0229  0.0178  0.0282            1.000
+cnn_norr  clean     combo_log_filt            0.0121  0.0080  0.0168            1.000
+cnn_norr  clean        veto_k_filt            0.0051 -0.0000  0.0114            0.974
+cnn_norr  clean      veto_lit_filt            0.0048  0.0007  0.0097            0.990
+cnn_norr  clean           conf_log            0.0013  0.0004  0.0021            1.000
+cnn_norr  clean combo_log_filt_ins           -0.0137 -0.0174 -0.0100            0.000
+
+=== external: clean condition (mean over seeds) ===
+                   acc  macroF1   F1_N   F1_S   F1_V   F1_F    ece
+model    regime                                                   
+cnn      aug     0.833    0.459  0.906  0.166  0.749  0.014  0.092
+         clean   0.880    0.500  0.936  0.275  0.766  0.023  0.032
+cnn_norr aug     0.743    0.379  0.842  0.014  0.648  0.012  0.145
+         clean   0.793    0.391  0.879  0.014  0.653  0.020  0.089
+rf       aug     0.940    0.536  0.967  0.330  0.802  0.044  0.028
+         clean   0.949    0.545  0.972  0.310  0.831  0.067  0.074
+
+=== external: abstention on noisy conditions (SNR<=6), mean over seeds ===
+score            combo_log_filt  combo_log_filt_ins  combo_raw  conf_log  entropy     msp  random  sqi_raw  veto_k_filt  veto_lit_filt
+model    regime                                                                                                                       
+cnn      aug             0.0745              0.0655     0.0822    0.0707   0.0676  0.0667  0.1602   0.1790       0.0909         0.0850
+         clean           0.1445              0.1336     0.1500    0.1427   0.1403  0.1405  0.2264   0.2092       0.1536         0.1495
+cnn_norr aug             0.1232              0.0933     0.1326    0.1129   0.1034  0.1023  0.1847   0.2236       0.1288         0.1151
+         clean           0.2038              0.1780     0.2146    0.1930   0.1917  0.1917  0.2641   0.2685       0.1968         0.1965
+rf       aug             0.0406              0.0345     0.0469    0.0350   0.0350  0.0346  0.0966   0.0740       0.0521         0.0461
+         clean           0.1301              0.0932     0.1304    0.1209   0.1125  0.1016  0.1730   0.1586       0.1120         0.1098
+
+=== external: seed ensemble, noisy AURC ===
+score                mi     msp
+model    regime                
+cnn      aug     0.0617  0.0569
+         clean   0.1446  0.1370
+cnn_norr aug     0.0905  0.0872
+         clean   0.1968  0.1855
+rf       aug     0.0919  0.0339
+         clean   0.1698  0.1007
+
+=== external: conformal coverage on CLEAN test beats (target 0.90) ===
+                                         cov_N  cov_S  cov_V  cov_F  set_size
+model    regime calib        k_patients                                      
+cnn      aug    incart_clean 4           0.839  0.858  0.830  0.644     1.647
+                             10          0.871  0.834  0.895  0.765     1.782
+                             16          0.912  0.865  0.915  0.838     1.865
+                incart_mixed 4           0.845  0.947  0.930  0.803     1.982
+                             10          0.855  0.934  0.946  0.874     1.946
+                             16          0.875  0.942  0.947  0.907     1.981
+                mitbih_clean 4           0.885  0.830  0.954  0.975     1.991
+                mitbih_mixed 4           0.854  0.883  0.964  0.945     1.943
+         clean  incart_clean 4           0.796  0.880  0.832  0.790     1.861
+                             10          0.835  0.887  0.888  0.894     2.001
+                             16          0.870  0.882  0.912  0.904     1.974
+                incart_mixed 4           0.894  0.989  0.933  0.986     2.637
+                             10          0.903  0.988  0.946  0.981     2.609
+                             16          0.920  0.984  0.946  0.977     2.570
+                mitbih_clean 4           0.924  0.828  0.953  0.892     1.947
+                mitbih_mixed 4           0.913  0.935  0.969  0.891     2.147
+cnn_norr aug    incart_clean 4           0.771  0.746  0.824  0.682     2.153
+                             10          0.859  0.872  0.887  0.802     2.602
+                             16          0.897  0.874  0.904  0.922     2.751
+                incart_mixed 4           0.759  0.801  0.921  0.845     2.480
+                             10          0.786  0.845  0.932  0.923     2.633
+                             16          0.815  0.849  0.934  0.943     2.681
+                mitbih_clean 4           0.883  0.532  0.959  0.997     2.696
+                mitbih_mixed 4           0.818  0.571  0.967  0.982     2.591
+         clean  incart_clean 4           0.824  0.832  0.815  0.773     2.372
+                             10          0.879  0.925  0.899  0.904     2.805
+                             16          0.897  0.843  0.923  0.919     2.768
+                incart_mixed 4           0.889  0.973  0.932  0.987     2.980
+                             10          0.902  0.968  0.944  0.978     3.087
+                             16          0.909  0.936  0.943  0.976     3.063
+                mitbih_clean 4           0.880  0.482  0.964  0.915     2.565
+                mitbih_mixed 4           0.871  0.675  0.971  0.924     2.773
+rf       aug    incart_clean 4           0.831  0.852  0.822  0.673     1.719
+                             10          0.864  0.828  0.881  0.685     1.657
+                             16          0.885  0.870  0.918  0.884     1.653
+                incart_mixed 4           0.918  0.976  0.914  0.863     1.880
+                             10          0.925  0.971  0.928  0.860     1.775
+                             16          0.932  0.971  0.937  0.911     1.851
+                mitbih_clean 4           0.726  0.995  0.979  0.983     2.635
+                mitbih_mixed 4           0.763  0.995  0.977  0.969     2.594
+         clean  incart_clean 4           0.802  0.848  0.810  0.709     1.603
+                             10          0.836  0.788  0.887  0.736     1.537
+                             16          0.869  0.844  0.910  0.888     1.586
+                incart_mixed 4           0.979  0.981  0.878  0.899     1.973
+                             10          0.982  0.976  0.905  0.891     1.844
+                             16          0.984  0.978  0.913  0.920     1.865
+                mitbih_clean 4           0.746  0.987  0.971  0.929     1.845
+                mitbih_mixed 4           0.823  0.989  0.969  0.913     1.891
+
+=== external: IN-DOMAIN error models (k INCART calibration patients), held-out patients, noisy AURC ===
+score                       combo_log_filt  combo_raw  conf_log     msp  sqi_raw
+model    regime k_patients                                                      
+cnn      aug    4                   0.0701     0.0761    0.0695  0.0692   0.1256
+                10                  0.0715     0.0783    0.0702  0.0692   0.1316
+                16                  0.0705     0.0767    0.0697  0.0692   0.1223
+         clean  4                   0.1391     0.1418    0.1430  0.1430   0.1739
+                10                  0.1374     0.1403    0.1425  0.1430   0.1741
+                16                  0.1371     0.1393    0.1425  0.1430   0.1718
+cnn_norr aug    4                   0.1152     0.1247    0.1141  0.1084   0.1636
+                10                  0.1112     0.1183    0.1128  0.1084   0.1588
+                16                  0.1076     0.1105    0.1092  0.1084   0.1461
+         clean  4                   0.1843     0.1832    0.1935  0.1939   0.2067
+                10                  0.1849     0.1821    0.1934  0.1939   0.2071
+                16                  0.1835     0.1808    0.1931  0.1939   0.2054
+rf       aug    4                   0.0387     0.0393    0.0366  0.0358   0.0789
+                10                  0.0383     0.0389    0.0367  0.0358   0.0743
+                16                  0.0376     0.0378    0.0366  0.0358   0.0720
+         clean  4                   0.0986     0.1003    0.0997  0.1013   0.1366
+                10                  0.0975     0.0990    0.0988  0.1013   0.1357
+                16                  0.0951     0.0967    0.0974  0.1013   0.1342
+
+=== external: patient-level bootstrap, AURC difference vs max-softmax (positive = worse) ===
+   model regime              score  diff_aurc_vs_msp   ci_lo   ci_hi  frac_boot_worse
+     cnn    aug            sqi_raw            0.1123  0.0890  0.1307            1.000
+     cnn    aug          combo_raw            0.0156  0.0124  0.0193            1.000
+     cnn    aug     combo_log_filt            0.0078  0.0057  0.0107            1.000
+     cnn    aug        veto_k_filt            0.0242  0.0180  0.0309            1.000
+     cnn    aug      veto_lit_filt            0.0183  0.0102  0.0266            1.000
+     cnn    aug           conf_log            0.0040  0.0025  0.0056            1.000
+     cnn    aug combo_log_filt_ins           -0.0012 -0.0022 -0.0004            0.000
+      rf    aug            sqi_raw            0.0394  0.0290  0.0520            1.000
+      rf    aug          combo_raw            0.0124  0.0103  0.0150            1.000
+      rf    aug     combo_log_filt            0.0060  0.0038  0.0085            1.000
+      rf    aug        veto_k_filt            0.0175  0.0140  0.0220            1.000
+      rf    aug      veto_lit_filt            0.0115  0.0065  0.0167            1.000
+      rf    aug           conf_log            0.0005 -0.0002  0.0009            0.926
+      rf    aug combo_log_filt_ins           -0.0001 -0.0009  0.0005            0.418
+cnn_norr    aug            sqi_raw            0.1213  0.1003  0.1408            1.000
+cnn_norr    aug          combo_raw            0.0303  0.0235  0.0372            1.000
+cnn_norr    aug     combo_log_filt            0.0209  0.0122  0.0287            1.000
+cnn_norr    aug        veto_k_filt            0.0265  0.0183  0.0362            1.000
+cnn_norr    aug      veto_lit_filt            0.0128  0.0045  0.0211            0.998
+cnn_norr    aug           conf_log            0.0106  0.0062  0.0150            1.000
+cnn_norr    aug combo_log_filt_ins           -0.0090 -0.0209 -0.0016            0.000
+     cnn  clean            sqi_raw            0.0687  0.0602  0.0776            1.000
+     cnn  clean          combo_raw            0.0095  0.0068  0.0126            1.000
+     cnn  clean     combo_log_filt            0.0040  0.0027  0.0057            1.000
+     cnn  clean        veto_k_filt            0.0130  0.0094  0.0176            1.000
+     cnn  clean      veto_lit_filt            0.0090  0.0049  0.0134            1.000
+     cnn  clean           conf_log            0.0022  0.0019  0.0025            1.000
+     cnn  clean combo_log_filt_ins           -0.0069 -0.0086 -0.0048            0.000
+      rf  clean            sqi_raw            0.0570  0.0456  0.0689            1.000
+      rf  clean          combo_raw            0.0288  0.0258  0.0322            1.000
+      rf  clean     combo_log_filt            0.0285  0.0251  0.0321            1.000
+      rf  clean        veto_k_filt            0.0104  0.0079  0.0133            1.000
+      rf  clean      veto_lit_filt            0.0081  0.0051  0.0115            1.000
+      rf  clean           conf_log            0.0193  0.0165  0.0220            1.000
+      rf  clean combo_log_filt_ins           -0.0084 -0.0110 -0.0061            0.000
+cnn_norr  clean            sqi_raw            0.0767  0.0642  0.0872            1.000
+cnn_norr  clean          combo_raw            0.0229  0.0178  0.0282            1.000
+cnn_norr  clean     combo_log_filt            0.0121  0.0080  0.0168            1.000
+cnn_norr  clean        veto_k_filt            0.0051 -0.0000  0.0114            0.974
+cnn_norr  clean      veto_lit_filt            0.0048  0.0007  0.0097            0.990
+cnn_norr  clean           conf_log            0.0013  0.0004  0.0021            1.000
+cnn_norr  clean combo_log_filt_ins           -0.0137 -0.0174 -0.0100            0.000
+11:23:00 ALL DONE. Files in /kaggle/working/ecg_external
